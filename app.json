@@ -31,7 +31,7 @@
       },
       "MENU": {
         "description": "choose 1, 2, 3",
-        "value": "1"
+        "value": "2"
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
@@ -75,12 +75,12 @@
       "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
-        "value": "unavailable"
+        "value": ""
       },
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
         "required": false,
-        "value": "true"
+        "value": ""
       },
       "MSGS_IN_LOG": {
         "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348100835767"
+        "value": ""
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
